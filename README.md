@@ -1,7 +1,13 @@
 ### Hello 👋 My name is Larissa!
 ✨ Welcome my Github ✨
 
-🌱 I’m front-end developer student from Santos-Brazil.
+🌱 I’m front-end developer student.
+
+🎯 I’m currently learning about HTML,CSS e JavaScript
+
+👀 I'm looking to collaborate on Front End
+
+ 
 
 <div align="center">
   <a href="https://github.com/lahgomes">
