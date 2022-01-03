@@ -3,9 +3,9 @@
 
 🌱 I’m front-end developer student.
 
-🎯 I’m currently learning about HTML, CSS and JavaScript
+🎯 I’m currently learning about HTML, CSS, SASS, JavaScript, React and APIs.
 
-👀 I'm looking to collaborate on Front End
+👀 I'm looking to collaborate on Front End.
 
 <div  style="display: flex; justify-content: space-between">
 <img  height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
