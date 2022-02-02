@@ -11,6 +11,11 @@
 <img  height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
 <img  height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
 <img  height="50rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img  height="50rem" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img  height="50rem" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg"/> 
+<img  height="50rem" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg"/> 
+ <img  height="50rem" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"/>
+ 
 </div>
  
 ##
