@@ -1,7 +1,7 @@
 ### Hello 👋 My name is Larissa!
 ✨ Welcome my Github ✨
 
-🌱 I’m front-end developer student.
+🌱 I’m front-end Developer Jr.
 
 🎯 I’m currently learning about HTML, CSS, SASS, JavaScript, React.JS, Next.JS and APIs.
 
