@@ -3,7 +3,7 @@
 
 🌱 I’m front-end developer student.
 
-🎯 I’m currently learning about HTML, CSS, SASS, JavaScript, React and APIs.
+🎯 I’m currently learning about HTML, CSS, SASS, JavaScript, React.JS, Next.JS and APIs.
 
 👀 I'm looking to collaborate on Front End.
 
