@@ -1,7 +1,7 @@
 ### Hello 👋 My name is Larissa!
 I’m a Front-End Developer.
 
-My focus is on React, Next.js, TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, SEO, and Web Performance.
+My focus is on React, Next.js, TypeScript, JavaScript, HTML, CSS, SASS, Styled Components, SEO and Web Performance.
 
 Currently, I’m learning Node.js.
 
