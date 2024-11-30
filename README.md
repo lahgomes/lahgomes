@@ -8,7 +8,7 @@ Currently, I’m learning Node.js.
  
 ##
 
-### Let's talk?:
+### Let's talk?
 <div  style="display: flex; justify-content: space-between">
  <a href="https://www.linkedin.com/in/larissagomes19/" target="_blank"> <img height="30rem" src="https://img.shields.io/badge/-LINKEDIN-blue"/></a>
  <a href="mailto:larissa_gomes19@hotmail.com" target="_blank"> <img height="30rem" src="https://img.shields.io/badge/-EMAIL-red"/></a>
